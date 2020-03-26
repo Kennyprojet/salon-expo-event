@@ -1,2 +1,3 @@
 # salon-expo-event
-Media tout en 1
+Media V en 1
+I'm using :iphone 6s :hololens:.
